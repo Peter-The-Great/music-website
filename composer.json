@@ -1,0 +1,21 @@
+{
+    "name": "peter-the-great/music",
+    "description": "A way for small artists to make bookings or for somebody to book them, probably",
+    "type": "project",
+    "license": "GNU GPL V3",
+    "autoload": {
+        "psr-4": {
+            "PeterTheGreat\\Music\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Peter-The-Great",
+            "email": "PjotrW15@Gmail.com"
+        }
+    ],
+    "require": {
+        "catfan/medoo": "^2.1",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}

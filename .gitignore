@@ -1,0 +1,10 @@
+/vendor/
+/.idea
+/node_modules/
+/.vscode/
+/uploads/
+!/uploads/simg/
+composer.phar
+.DS_STORE
+.env
+/js/backup/
